@@ -1,0 +1,35 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "65656565",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Stephen Toomey",
+      "number": "09090648502",
+      "id": "MMf5gU4e0qk"
+    },
+    {
+      "name": "John Teke",
+      "number": "80808456867",
+      "id": "UxwVPVUqN-k"
+    },
+    {
+      "name": "Hello Meny",
+      "number": "70757878874",
+      "id": "dWhLprKbSdo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
